@@ -1,0 +1,28 @@
+/* Rendre l'image entièrement réactive */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .table2, td {
+        border: 1px solid white;
+        background-color: cyan;
+        color: black;
+        text-align: center;
+        font-weight: bolder;
+    }
+    
+    th {
+      border: 1px solid white;
+    }
+
+    thead,
+    tfoot {
+        background-color: blue;
+        color: #fff;
+    }
+
+    video {
+      cursor: url(../images/img-cursor.png), auto;
+    }
+
